@@ -1,0 +1,4 @@
+SimpleNet sleeve results
+INFO:utils:instance_auroc: 0.530
+INFO:utils:full_pixel_auroc: 0.968
+INFO:utils:anomaly_pixel_auroc: 0.822
