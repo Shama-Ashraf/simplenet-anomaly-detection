@@ -20,3 +20,7 @@ old_experiments/
 
 log_clean.txt
 binplot_hist.png
+
+# datasets
+/data/
+/data_static/
