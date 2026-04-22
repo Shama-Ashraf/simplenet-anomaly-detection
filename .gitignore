@@ -2,7 +2,10 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 
+data/
+data_static/
 results/
 results_best/
 output/
@@ -11,6 +14,9 @@ old_experiments/
 *.pth
 *.pt
 *.ckpt
+*.npy
+*.npz
+*.pkl
 
-binplot_hist.png
 log_clean.txt
+binplot_hist.png
